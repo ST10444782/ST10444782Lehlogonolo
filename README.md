@@ -14,3 +14,30 @@ Documentation: Project documentation, such as installation instructions, usage r
 
 Conclusion: The History app is a simple yet informative tool that allows users to explore the lives of historical figures based on their age at the time of death. By leveraging GitHub and GitHub Actions, the project benefits from enhanced collaboration, version control, and automated testing, ensuring code quality and reliability. With its intuitive design and robust functionality, the app offers users an engaging way to learn about notable personalities throughout history, this app is a great tool for people who want to research more about historical figures especially users who are currently in primary and high school would find the app to be a gem for them when they have research projects.
 
+Reference List:
+Android Developers Documentation:
+Android Developers. Android Developers Documentation. Retrieved from https://developer.android.com/docs
+[Accessed 2024/03/26]
+
+GitHub Guides and Documentation:
+GitHub. (2024) GitHub Guides and Documentation. Retrieved from https://docs.github.com/en
+[Accessed 2024/04/04]
+
+GitHub Actions Documentation:
+GitHub. (2024). GitHub Actions Documentation. Retrieved from https://docs.github.com/en/actions
+[Accessed 2024/04/04]
+
+Kotlin Programming Language Documentation:
+JetBrains. Kotlin Programming Language Documentation. Retrieved from https://kotlinlang.org/docs/home.html
+[Accessed on 2024/03/27]
+The IIE.2024.[IMAD5112 Module Manual]The independent Institute of Education:Unpublished
+The IIE.2024.[IPRG5111 Module Manual]The independent Institute of Education:Unpublished
+
+
+
+
+
+
+
+
+
