@@ -16,18 +16,18 @@
         android:background="#888854"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.833"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.782"
+        app:layout_constraintVertical_bias="0.525"
         app:srcCompat="@drawable/_751007307601c988e581d7d546d820b" />
 
     <TextView
         android:id="@+id/resultText"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:layout_width="325dp"
-        android:layout_height="71dp"
+        android:layout_width="347dp"
+        android:layout_height="109dp"
         android:hint="Names"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.697"
@@ -51,15 +51,15 @@
 
     <Button
         android:id="@+id/btnClear"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="128dp"
+        android:layout_height="64dp"
         android:text="Clear"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.919"
+        app:layout_constraintHorizontal_bias="0.879"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.887" />
+        app:layout_constraintVertical_bias="0.925" />
 
     <Button
         android:id="@+id/generateBtn"
@@ -71,9 +71,9 @@
         android:text="Generate History"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.975"
+        app:layout_constraintVertical_bias="1.0"
         app:rippleColor="#100C0C"
-        tools:layout_editor_absoluteX="60dp" />
+        tools:layout_editor_absoluteX="30dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
