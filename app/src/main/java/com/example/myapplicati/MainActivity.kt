@@ -20,8 +20,7 @@ class MainActivity : AppCompatActivity() {
         val btnClear: Button = findViewById<Button>(R.id.btnClear)
 
         generateBtn.setOnClickListener() {
-            val age = ageInput.text.toString().toInt()
-
+            val age = ageInput.text.toString().toInt()//The IIE.2024.if Statements[IPRG511 Module Manual]
             if (age <20 || age >100){// iie module manual
                 resultText.text = "The number you have entered is out of range."
             } else if (age == 95) {
@@ -60,7 +59,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-}// www.w3schools.com/kotlin/index.php
-// iie module manual
+}// The IIE .2024.if Statements[IPRG5111 Module Manual]
+// www.w3schools.com/kotlin/index.php
+
 
 
