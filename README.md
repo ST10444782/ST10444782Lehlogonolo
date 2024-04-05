@@ -7,6 +7,7 @@ User Interface (UI): The UI has a simple, user-friendly design. There is just on
 
 Functionality: The main purpose of the app is to find a well-known individual who died at a certain age. The app uses a list of well-known people and their ages when they passed away to accomplish this. Kotlin is used to create the logic for searching this list, making it possible to efficiently retrieve pertinent data in response to user input.
 Error management: To provide an enjoyable experience for users, the app has handling of errors features. The correct error messages are displayed to guide the user in case they enter an invalid age or if there is no known person found at the given age. There's also a clear button to restart a new search or reset the app if something goes wrong. 
+![History Pic](https://github.com/ST10444782/ST10444782Lehlogonolo/assets/161002155/e611e62b-67d2-4f76-9ded-c70314c8316b)
 
 Scalability: By allowing the addition of more well-known people to the set list, the app is made to be easily accessible. This ensures that the app will always be current and that it will be able to support a broader range of historical individuals as needed. Also, the codebase's generic and maintainable nature makes it easier to update and improve in the future.
 How GitHub and GitHub Actions are Used: 
@@ -25,8 +26,8 @@ References:
 •	GitHub Guides and Documentation: https://docs.github.com/en
 •	GitHub Actions Documentation: https://docs.github.com/en/actions
 
+
+
+
 Conclusion:
 The History app is a simple yet informative tool that allows users to explore the lives of historical figures based on their age at the time of death. By leveraging GitHub and GitHub Actions, the project benefits from enhanced collaboration, version control, and automated testing, ensuring code quality and reliability. With its intuitive design and robust functionality, the app offers users an engaging way to learn about notable personalities throughout history.
-
-![History Pic](https://github.com/ST10444782/ST10444782Lehlogonolo/assets/161002155/e611e62b-67d2-4f76-9ded-c70314c8316b)
-
