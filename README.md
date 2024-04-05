@@ -1,4 +1,4 @@
-Lehlogonolo first projectDeveloper 
+Developer 
 Lehlogonolo Mogoaneng
 
 The History App's goal is to give users a way to quickly locate well-known people who passed away at certain ages. When a user enters an age, the app uses a predefined list of historical individuals to identify a renowned person who passed away at that age and it displays the name and the achievements of that individual. The app offers users an enjoyable way to learn about famous people throughout history and wants to be clear, easy to use, and informative, which encourages historical literacy and a deeper understanding of human achievements. User Interface (UI): The UI has a simple, user-friendly design. There is just one form for users to enter their age and a button to start the search. The User Interface (UI): can only cater for numerical values and it must be a whole number, it does not handle numbers that are put in words. There's also a clear button in case you need to reset the app. To guarantee ease of use and rapid access to the app's main features, the user interface has been kept basic.
