@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val ageInput: EditText = findViewById<EditText>(R.id.ageInput)
+        val ageInput: EditText = findViewById<EditText>(R.id.ageInput)//https://www.w3schools.com/kotlin/index.php
         val resultText: TextView = findViewById<TextView>(R.id.resultText)
         val generateBtn: Button = findViewById<Button>(R.id.generateBtn)
         val btnClear: Button = findViewById<Button>(R.id.btnClear)
@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         generateBtn.setOnClickListener() {
             val age = ageInput.text.toString().toInt()
 
-            if (age <20 || age >100){
+            if (age <20 || age >100){// iie module manual
                 resultText.text = "The number you have entered is out of range."
             } else if (age == 95) {
                 resultText.text = "Nelson Mandela,the first Black President in South Africa"
@@ -60,5 +60,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-}
+}// www.w3schools.com/kotlin/index.php
+// iie module manual
+
 
